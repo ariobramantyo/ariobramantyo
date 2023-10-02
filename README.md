@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hello there 👋
 
+- 👯 I’m looking to collaborate on Mobile and Frontend Web project
+- 📫 How to reach me: i.ario.bramantyo@gmail.com
+
+### Github Statistic
+<p align="left">
+<a href="https://github.com/ariobramantyo">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ariobramantyo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ariobramantyo&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 <!--
 **ariobramantyo/ariobramantyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
